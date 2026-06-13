@@ -1,0 +1,35 @@
+# Environment
+.env
+.venv
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+dist/
+build/
+egg-info/
+.eggs/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Reports and outputs
+reports/
+*.csv
+*.json
+*.txt
+
+# OS
+.DS_Store
+Thumbs.db
